@@ -8,7 +8,6 @@ body    {
 header  {
     margin: 0 auto;
     padding: 50px 10px;
-    min-width: 1250px;
 }
 .accordeon  {
     display: flex;
